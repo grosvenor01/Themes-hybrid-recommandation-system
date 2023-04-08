@@ -1,0 +1,349 @@
+themesid,titel,keywords
+1,"CONCEPTION D’UN SYSTÈME D’INFORMATION  
+ET DÉVELOPPEMENT D’UNE APPLICATION MOBILE
+DÉDIÉE ","IL | Architecture de l'information | Conception de système | Modélisation de données | 
+Analyse des cas d'utilisation | Conception de l'interface utilisateur | Conception de la base de données
+| Méthodologies de développement de logiciels | Déploiement et maintenance du système | "
+2,"TRAITEMENT DE L'INFORMATION 
+GÉOGRAPHIQUE DANS UN SYSTÈME IOT .
+","IL | Collecte de données | Traitement de données | Analyse de données | Extraction d'informations
+ | Data mining | Intelligence artificielle (IA) | Apprentissage automatique (machine learning) 
+| Réseau de neurones | Traitement du langage naturel (NLP) | Fouille de texte 
+| Visualisation de données | Base de données | Programmation | Analyse statistique 
+| Algorithmes | Sécurité de l'information"
+3,"TECHNIQUES DE GÉNÉRATION DES SCRIPTS DE 
+RECONFIGURATION DES ARCHITECTURES LOGICIELLES.
+","IL | Analyse de code source | Interprétation syntaxique | Compilation | Langages de programmation | 
+Modèles de conception | Outils de développement intégrés | Langages de script 
+| Frameworks de développement web"
+4,"RÉALISATION D'UNE APPLICATION MOBILE POUR LA
+GESTION DES PROCESSUS D'IMPLANTATION ET DE 
+FORAGE DES PUITS PÉTROLIERS EN ALGÉRIE MUNIS
+ D'UN SYSTÈM GÉO-LOCALISATION
+","IL | Développement d'applications mobiles | Sécurité de l'information | Base de données |
+ Interface utilisateur | Fonctionnalités avancées | Modélisation de données | Programmation mobile |
+ Tests d'acceptation | Maintenance de l'application | Réseau mobile"
+5,CONCEPTION ET DÉVELOPPEMENT DU MODULE RECRUTEMENT RH EN WEB ET EN VERSION MOBILE,"IL | Collecte des besoins | Développement web | Développement mobile | Interface utilisateur 
+| Base de données | Gestion de projet | Sécurité de l'information | Intégration de données 
+| Tests d'acceptation | Maintenance du système | Formation des utilisateurs | Réseau mobile 
+| Technologies web | Frameworks de développement web | Programmation mobile 
+| Frameworks de développement mobile"
+6,"CONCEPTION D’UN MOTEUR DE RECHERCHE 
+AVANCÉ ADAPTÉ À DES MARKETPLACES
+","IL | Collecte des besoins | Traitement de l'information | Architecture du système 
+| Algorithmes de recherche | Indexation | Recherche en texte intégral 
+| Langage de requête | Interface utilisateur | Base de données | Sécurité de l'information 
+| Intégration de données | Tests d'acceptation | Maintenance du système | Réseau 
+| Technologies web | Frameworks de développement web | Programmation | Intelligence artificielle 
+| Apprentissage automatique."
+7,"ANALYSE DU COMPORTEMENT CLIENT EN UTILISANT 
+DES TECHNIQUES DE DATA MINING
+","BIG DATA | Collecte des données | Prétraitement des données | Techniques de data mining 
+| Modélisation | Analyse  | Visualisation des données | Base de données | Sécurité de l'information 
+| Intégration de données | Tests d'acceptation | Maintenance du système | Réseau | Programmation 
+| Intelligence artificielle | Apprentissage automatique."
+8,"CONCEPTION ET RÉALISATION D'UN SYSTÈME
+INTELLIGENT POUR LA DÉTECTION DE ZONES 
+PROSPECTIVES EN HYDROCARBURE DANS LE BASSIN 
+DE OUED MYA .
+","BIG DATA | Collecte des données | Traitement de l'information | Analyse géologique | Modélisation 
+| Algorithme d'exploration de données | Analyse de corrélation | Analyse de séquence 
+| Programmation | Intelligence artificielle | Apprentissage automatique 
+| Réseaux de neurones | Maintenance du système | Sécurité de l'information | Base de données 
+| Visualisation des données | Tests d'acceptation."
+9,"CONCEPTION ET RÉALISATION D'UNE PLATEFORME 
+DATA RELATIVE AU FORAGE DES PUITS PÉTROLIERS 
+","BIG DATA | Collecte des données | Traitement de l'information | Analyse de données
+| Base de données | Programmation | Sécurité de l'information | Stockage de données 
+| Modélisation de données | Visualisation des données 
+| Algorithmes de traitement de données | Réseau informatique | Maintenance du système."
+10,"REJEU EN LIVE STREAMING DES DONNÉES
+D'EXPLOITATION | COMMERCIALES - FOCUS
+","BIG DATA | Live streaming | Traitement de données en temps réel | Flux de données 
+| Système distribué | Infrastructures réseau | Compression de données 
+| Gestion de données volumineuses | Architecture de système distribué 
+| Algorithme de diffusion de données | Plateforme de diffusion de données 
+| Programmation de streaming"
+11,"CONCEPTION D'UN DATAWAREHOUSE ET MISE EN PLACE
+D'UNE SOLUTION DE BUSINESS INTELLIGENCE POUR 
+L'ACTIVITÉ DE CONTRÔLE TECHNIQUE DE LA 
+CONSTRUCTION.
+","BIG DATA | Datawarehouse | Modélisation de données | Extraction, 
+Transformation et Chargement (ETL) | Entrepôt de données | Architecture de stockage de données 
+| Système de gestion de bases de données 
+| Analyse de données | Dimension de données 
+| Processus de nettoyage des données | Business Intelligence | Gestion des métadonnées"
+12,"TECHNIQUES DE MACHINE LEARNING POUR LA 
+DÉTECTION ET PRÉDICTION DE 
+CONGESTION/ANOMALIES DES ANTENNES/ÉQUIPEMENTS
+ RADIO.
+","BIG DATA | Machine Learning | Réseaux de neurones | Apprentissage supervisé 
+| Apprentissage non supervisé | Apprentissage par renforcement | Modèles de prédiction 
+| Apprentissage profond | Algorithme de classification | Algorithme de clustering 
+| Ensembles de données d'entraînement | Apprentissage semi-supervisé | Apprentissage en ligne 
+| Méthodes d'optimisation | Analyse de données | Traitement du langage naturel | AI"
+13,"PROPOSITION ET CONCEPTION D'UNE SOLUTION 
+DMVPN MULTI-HUBS REDONDANT POUR 
+L'INTERCONNEXION DES RÉSEAUX D'ENTREPRISE.
+",GTR | Réseau | Sécurité de l'information | Intégration de données | Maintenance du système
+14,"CONCEPTION ET RÉALISATION D'UNE PLATE-FORME DE 
+MONITORING DES ROBOTS NETTOYEUR DES PANNEAUX
+PHOTOVOLTAÏQUE
+","GTR | Robotique |  Technologie de suivi solaire | Réseau de capteurs sans fil | Automatisation | 
+Capteurs environnementaux | Internet des objets (IoT)"
+15,"LA RÉALISATION D’UNE APPLICATION WEB POUR LA 
+GESTION DES CLASSES UNIVERSITAIRES, ET DE LA 
+COMMUNICATION ENTRE ENSEIGNANTS ET ÉTUDIANTS.
+",GTR | Plateforme d'apprentissage | devlopment web | Système de gestion | Technologie
+16,"ETUDE ET DEPLOYEMENT D'UN SERVEUR VPN
+","GTR | Sécurité des données | Réseau informatique | Sécurité informatique
+ | Cryptographie | Administration réseau | Serveurs | Réseau privé d'entreprise (VPN)
+
+ "
+17,"CONCEPTION ET IMPLÉMENTATION D’UNE SOLUTION IP 
+RAN DANS LES RÉSEAUX CELLULAIRES
+","GTR | Sécurité de réseau | Interconnexion de réseau | 4G | 5G |  Technologie |  Virtualisation de réseau
+
+| Réseau d'accès radio (RAN)
+"
+18,"CONCEPTION ET IMPLÉMENTATION D’UNE SOLUTION IP 
+RAN DANS LES RÉSEAUX CELLULAIRES
+","GTR | Sécurité de réseau | Interconnexion de réseau | 4G | 5G |  Technologie |  Virtualisation de réseau
+
+| Réseau d'accès radio (RAN)
+"
+19,"GÉNÉRATION DE TEXTES DESCRIPTIFS À PARTIR D'UNE 
+REPRÉSENTATION GRAPHIQUE D'UNE IMAGE
+","ISIL | Traitement d'images | Génération de texte |  Classification d'image | 
+Extraction  d'image | AI | Informatique Visual "
+20,"ETUDE ET RÉALISATION D'UN SYSTÈME DE 
+RECONNAISSANCE D'EMPLACEMENT TRIDIMENSIONNEL 
+DES POINTS CLÉS DU CORPS HUMAIN EN TEMPS RÉEL 
+ET L'INDENTIFICATION DES CARACTÉRISTIQUE 
+SPÉCIFIQUES DE LA PERSONNE EN VUE D'UNE 
+UTILISATION EN RÉALITÉ AUGMENTÉE
+","ISIL | ISIL | Vision par ordinateur | Traitement d'images | Modélisation 3D 
+| Biométrie | Réalité augmentée | Perception visuelle | Analyse de mouvement 
+| Apprentissage automatique | Réseaux de neurones | Inférence visuelle | Inférence sémantique 
+| Suivi de corps humain | Gestion de données biométriques | Sécurité des données 
+| Intégration de systèmes | Interfaces utilisateur | Interfaces de programmation d'applications (API) 
+| Programmation informatique "
+21,"CONCEPTION ET RÉALISATION D'UN SYSTÈME 
+D'INFORMATION POUR GESTION DES FICHES 
+ANESTHÉSIQUES (CHU 
+","ISIL | Système d'information | Gestion de données | Informatique médicale | Sécurité des données 
+| Gestion de projet | Programmation informatique | Bases de données | Interfaces utilisateur"
+22,"CONCEPTION ET RÉALISATION D' UNE APPLICATION 
+MOBILE POUR LA COMMUNICATION ÉLÈVE/PARENT 
+D'ÉLÈVE- ADMINISTRATION/ENSEIGNANTS, EN PLUS 
+D'UNE APPLICATION DESKTOP POUR LE SYSTÈME DE 
+GESTION DE LA SCOLARITÉ D'UNE ÉCOLE.
+","ISIL | Application mobile | Application desktop | Gestion de la scolarité | Gestion des données 
+| Interfaces utilisateur | Programmation informatique | Bases de données | Gestion de projet"
+23,"CONCEPTION D’UN SYSTÈME D’INFORMATION ET 
+DÉVELOPPEMENT D’UNE APPLICATION MOBILE DÉDIÉE 
+","ISIL | Système d'information | Application mobile | Développement d'applications 
+| Gestion de données | Interfaces utilisateur | Programmation informatique | Bases de données 
+| Gestion de projet"
+24,"LA CONCEPTION ET DÉVELOPPEMENT D’UNE 
+APPLICATION WEB POUR L’ELABORATION D’UN 
+RÉFÉRENTIEL VÉHICULE, ET LA GESTION DES 
+CONTRATS DE LOCATION DE VÉHICULES DE TRANSPORT
+ DE PRODUITS CARBURANTS AVEC LES 
+TRANSPORTEURS TIERS
+","ISIL | Application web | Développement d'applications | Gestion de données | Référentiel véhicule 
+| Contrats de location | Transport de produits | Gestion de flotte | Gestion de projet"
+25,"UTILISATION DU RÉSEAU INTERNET DES OBJETS (IOT) 
+POUR LES APPLICATIONS MÉDICALES.
+","RSD | Internet des objets (IoT) | Santé connectée | Télémédecine 
+| Capteurs connectés | Analyse de données | Sécurité des données 
+| Intégration de systèmes | Réseaux de communication sans fil | Systèmes embarqués 
+| Intelligence artificielle | Télésoins | Surveillance à distance | Suivi de patients 
+| Applications mobiles de santé | Plateformes de gestion de données de santé 
+| Interopérabilité des systèmes de santé | Wearables médicaux."
+26,"IMPLÉMENTATION D’UNE SOLUTION « ZERO TOUCH 
+PROVISIONNING » POUR LE DÉPLOIEMENT AUTOMATISÉ 
+DES NOEUDS D’UN RÉSEAU IP MPLS
+","RSD | Réseau IP/MPLS | Provisionnement automatisé | Automatisation de réseau 
+| Configuration de réseau | Administration de réseau | Télécommunications | Virtualisation de réseau 
+| Sécurité de réseau | Orchestration de réseau | Gestion de réseau"
+27,"CONTEXTE UTILISATEUR POUR LA SÉLECTION DES 
+SERVICES CLOUD
+","RSD | Cloud computing | Sélection de services | Expérience utilisateur | Analyse de données 
+| Préférences utilisateur | Personnalisation | Infonuagique | Gestion de services cloud"
+28,"CONCEPTION ET SIMULATION D'UNE SOLUTION 
+CLOUD PRIVEE
+","RSD | Cloud privé | Virtualisation | Stockage de données | Sécurité des données | Haute disponibilité 
+| Réseau virtuel | Infonuagique | Gestion de ressources | Redondance | Évolutivité."
+29,"MIGRATION D'UN RÉSEAU IP/MPLS VERS INTRA-AS 
+SEAMLESS MPLS ET SEGMENT ROUTING
+","RSD | Réseau IP/MPLS | MPLS-TP | Seamless MPLS | Segment Routing | Migration de réseau 
+| Protocole de routage | Réseau de transport | Réseau d'interconnexion | Architecture réseau 
+| Télécommunications"
+30,"ALGORITHME DE COUVERTURE BASÉE TRANSPORT 
+POUR LA COUCHE PERCEPTION DANS L'ARCHITECTURE 
+IOT
+","RSD | Internet des objets (IoT) | Architecture IoT | Réseaux de capteurs | Couche perception 
+| Algorithmes de couverture basée transport | Protocoles de communication 
+| Optimisation de la consommation d'énergie | Sécurité des données | Traitement des données 
+| Techniques de routage"
+31,"DÉVELOPPEMENT D'UNE APPLICATION SÉCURISÉE DE 
+SURVEILLANCE À DOMICILE D'UN PATIENT COVID19 
+BASÉE SUR UNE ARCHITECTURE FOG
+","SSI | Sécurité informatique | Surveillance à distance | Patient COVID-19 | Application mobile 
+| Architecture Fog | Cloud computing | IoT | Traitement de données | Analyse de données 
+| Intégration de systèmes | Sécurité des données."
+32,"CONCEPTION ET IMPLÉMENTATION DE CAS 
+D'UTILISATION POUR LA SUPERVISION ET DÉTECTION 
+DES ATTAQUES CIBLANT LE CONTOURNEMENT DE LA 
+LOGIQUE DE FONCTIONNEMENT MÉTIER ""BUSINESS 
+LOGIC"" DES APPLICATIONS BANCAIRES .
+","SSI | Sécurité des applications | Attaques ciblées 
+| Contournement de la logique de fonctionnement métier | Détection des attaques 
+| Supervision des applications bancaires | Gestion des risques de sécurité 
+| Sécurité des transactions financières | Cryptographie | Gestion des certificats numériques 
+| Sécurité des données bancaires | Sécurité de l'authentification et de l'autorisation"
+33,"LA CONCEPTION ET L'IMPLÉMENTATION DES USE 
+CASES SUR UNE SOLUTION SIEM
+","SSI | Sécurité informatique | Gestion des événements de sécurité 
+| Gestion des informations et des événements de sécurité (SIEM) | Analyse de sécurité 
+| Corrélation d'événements | Détection d'intrusion | Gestion des alertes | Surveillance de la sécurité 
+| Gestion des logs | Gestion des vulnérabilités | Threat Intelligence | Gestion des incidents de sécurité 
+| Pare-feu | Authentification | Cryptographie | Sécurité réseau | Sécurité du système d'exploitation."
+34,"MISE ON OEUVRE ET TESTE D'UN ENVIRENEMENT 
+SÉCURISÉ AVEC UN WEB APPLICATION FIREWALL (WAF)
+","SSI | Mise en œuvre | Test | Environnement sécurisé | Web Application Firewall (WAF) | Securité 
+| Dévelopment web"
+35,"MISE EN PLACE D'UNE SOLUTION SOC VIA DES OUTILS 
+D'AUTOMATISATION POUR UNE DÉTECTION ET UNE 
+RÉPONSE EN TEMPS RÉEL AUX ATTAQUES DE CYBER 
+SÉCURITÉ
+","SSI | Cryptographie | Gestion des vulnérabilités | SOC | SIEM | Détection des menaces  | Pare-feu
+| Sécurité des réseaux et des systèmes | Securité"
+36,"CONCEPTION ET IMPLÉMENTATION D'UN SYSTÈME 
+D'AIDE À L'APPRENTISSAGE DES ATTAQUES POUR LES 
+ÉQUIPES DE SÉCURITÉ BLEUES DANS LES 
+ORGANISATIONS
+",SSi | Sécurité informatique | Apprentissage automatique | Cyberdéfense | Visualisation de données | 
+37,"CONCEPTION ET MISE EN ŒUVRE D'UNE SOLUTION DE 
+SURVEILLANCE RÉSEAU POUR LA CYBER-SÉCURITÉ.
+","ACAD | Supervision réseau | Sécurité réseau |  Pare-feu | Sécurité des communications 
+| Surveillance en temps réel | Securité 
+"
+38,"CONCEPTION ET DÉVELOPPEMENT D’UN 
+ENVIRONNEMENT D’APPRENTISSAGE AUTOMATIQUE 
+POUR JEUX SUR ORDINATEUR.
+",ACAD | Intelligence artificielle | AI | NLP | Modélisation | Optimisation
+39,"GESTION DES DOTATIONS DES MATÉRIAUX 
+INFORMATIQUE 
+",ACAD | Dévloppment web 
+40,"CONCEPTION ET RÉALISATION D'UNE APPLICATION 
+MOBILE ET D'UN SITE WEB POUR DÉCLARER UN 
+SINISTRE ET FAIRE LA VISITE DES RISQUES 
+","ACAD | Site web | Application mobile | Architecture de base de donnés | Collecte de données
+"
+41,"REALISATION D'UN RESEAU SOCIAL 
+","ACAD | Social networking
+| Dévloppment web | Application mobile Développement logiciel | Programmation 
+| Architecture système | Réseaux et télécommunications | Bases de données | Sécurité informatique
+| Cloud computing | Intelligence artificielle et apprentissage automatique  | Internet des objets (IoT)
+Virtualisation et conteneurisation | DevOps | Systèmes embarqués | Réalité virtuelle et augmentée
+Interface utilisateur et expérience utilisateur (UI/UX) | Web design | développement web | 
+Blockchain et cryptomonnaies"
+42,"EVALUATION DE LA QUALITÉ DE SERVICE (QOS) POUR 
+LES SYSTÈMES ET RÉSEAUX SUJET À DES ATTAQUES 
+DE TYPES DÉNI DE SERVICE(DOS)
+","ACAD | Attaques DoS | Réseaux | Systèmes informatiques | Sécurité informatique
+| Tolérance aux fautes | Disponibilité | Latence | Bande passante | Fiabilité | Mesure de performance
+| Analyse de trafic | Protection contre les attaques DoS | Stratégies de défense"
+43,"PRÉDICTION DES INTERETS DES UTILISATEURS DANS 
+UN RÉSEAUX SOCIAUX PAR APPRENTISSAGE PROFOND
+","SII | AI | big data | Algorithmes de recommandation | Exploration de données | Extraction d'information
+| NLP | "
+44,"PREDICTION DES FEUX EN EXTERIEUR ET OPTIMISATION 
+DE L'INTERVENTION D'EXTINCTION
+","SII | AI | big data | Algorithmes de recommandation | Exploration de données | Extraction d'information
+| NLP | Traitement de données en temps réel | Machine learning | Modélisation de données
+
+"
+45,"LES ALGORITHMES D'APPRENTISSAGE AUTOMATIQUE ET 
+D'INTELLIGENCE EN ESSAIM POUR LE DISPATCHING 
+DES PATIENTS PENDANT UNE PANDÉMIE
+",SII | AI 
+46,"REFORMULATION DE LA REQUETE POUR LA RECHERCHE 
+D'Information en exploitant un profil emotionnel
+","SII | AI | NLP | Traitement de données | Extraction d'informations | Systèmes de recommandation |
+Analyse de sentiments
+
+
+"
+47,"CHATBOT PAR DEEP LEARNING EN SANTÉ
+","SII Chatbot | Deep learning | Natural language processing (NLP) | Artificial intelligence (AI)
+| Neural networks | Machine learning | Text classification | Sentiment analysis | Conversational agents
+| Reinforcement learning | Chatbot training"
+48,"SMART MOTION DETECTION FOR SECURITY PROBLEMS
+","SII | Détection de mouvement intelligente | Sécurité | Systèmes de sécurité | Vidéosurveillance
+Analyse d'image | Traitement d'image | Réseau de capteurs | Apprentissage profond |
+Intelligence artificielle | Surveillance en temps réel"
+49,"Extraction, gestion et exploitation des informations-clients 
+chez djezzy
+","MIV | Data mining | Business intelligence | Data warehouse | Gestion de la relation client (CRM) 
+| Big data | Analyse de données | Apprentissage automatique | NLP | Analyse prédictive |
+ Segmentation de la clientèle | Récupération de l'information | Text mining |
+ Analyse de sentiment | Visualisation de données | Systèmes d'aide à la décision (DSS) |
+ Découverte de connaissances dans les bases de données (KDD)"
+50,"CLASSIFICATION DES NODULES PULMONAIRES 
+SUSPECTS BASÉE SUR LES APPROCHES DE L'IA
+","MIV | Classification des nodules pulmonaires suspects | Approches de l'IA | Médecine diagnostique 
+| Imagerie médicale | Radiologie | Analyse d'image | Réseaux de neurones artificiels"
+51,"LA RÉALITÉ AUGMENTÉE POUR L’AUTOPALPATION 
+","MIV | Réalité augmentée | Autopalpation | Système de guidage | Imagerie médicale
+| Traitement d'images | Simulation médicale | Apprentissage automatique | Reconnaissance d'image
+| Modélisation 3D | Interfaces utilisateur | Dispositifs portables"
+52,"DESCRIPTION DES SCÈNES RÉELLES
+","MIV | Reconnaissance d'objets | Vision par ordinateur | Traitement d'images
+| Segmentation d'images | Apprentissage profond | Réseaux de neurones convolutifs (CNN)
+| Détection de contours | Classification d'images | Estimation de profondeur | Analyse de mouvement
+| Reconnaissance de forme | Traitement du signal"
+53,"APPROCHE DEEP LEARNING POUR LA PRÉDICTION DE 
+LA PNEUMONIE DE L’ENFANT
+","MIV | Deep learning | Réseaux de neurones | Imagerie médicale | Diagnostic de la pneumonie
+| Prédiction de la pneumonie | Classification d'images médicales | Apprentissage supervisé
+| Apprentissage non supervisé | Traitement d'images | Analyse d'images
+| Base de données d'images médicales"
+54,"CONTRIBUTION À L’ÉTUDE ET À LA RÉALISATION D’UN 
+SYSTEME DE  DÉTECTION AUTOMATIQUE ET LE SUIVI 
+DES MÉTÉORES LUMINEUX.
+","MIV | Traitement d'images | Vision par ordinateur | Détection d'objets
+| Reconnaissance de formes | Analyse de données | Machine learning | Réseaux de neurones artificiels
+| Algorithmes de détection | Suivi d'objets | Traitement de signaux | Astronomie"
+55,"ALGORITHMES DE DEEP LEARNING  POUR LA 
+PRÉDICTION DE RÉSEAUX D'INTERACTION 
+PROTEINE-PROTEINE
+","BIOINFO | Bioinformatique | Réseaux de neurones artificiels | Interactions protéine-protéine
+Prédiction de protéines | Analyse de données | Traitement du signal
+Apprentissage profond | Modélisation moléculaire | Réseaux de neurones convolutifs
+Graphes de protéines | Génomique computationnelle | Classification de protéines
+Analyse de réseaux biologiques"
+56,"CONCEPTION ET RÉALISATION D'UN OUTIL D'AIDE À LA 
+DÉTECTION D'INTERACTIONS MÉDICAMENTEUSES
+","BIOINFO | Détection d'interactions médicamenteuses | Système d'aide à la décision médicale
+| Analyse de données médicales | Extraction d'informations médicales | Recherche d'information médicale
+| Informatique médicale | Pharmacovigilance | Algorithmes d'apprentissage automatique
+| Base de données médicales | Interactions médicamenteuses graves"
+57,"SIMULATION D'UN SYSTÈME D'OBJETS CONNECTÉS 
+DANS UN CONTEXTE DE SMART-AGRICULTURE :
+","BIOINFO | Simulation | Objets connectés | Smart agriculture | Réseau de capteurs
+Internet des objets (IoT) | Systèmes embarqués | Optimisation | Collecte de données |
+Analyse de données | Contrôle à distance | Automatisation
+Surveillance environnementale"
+58,"ALGORITHME DE DEEP LEARNING POUR L'INFÉRENCE 
+DES FONCTIONS DE PROTÉINES 
+","BIOINFO | Deep learning | Proteins | Protein function inference
+Machine learning | Artificial intelligence | Neural networks | Bioinformatics
+Computational biology | Structural biology | Drug discovery"
+59,"DÉTECTION HISTOPATHOLOGIQUE DU CANCER PAR 
+LES CNNS
+",BIOINFO
+60,"THÉ HOUSEKEEPING GENES ANALYSIS TOOL
+",BIOINFO
